@@ -87,6 +87,7 @@
             this.button3.TabIndex = 4;
             this.button3.Text = "More Cps Upgrades (1 Rebirth Needed to Enter)";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 

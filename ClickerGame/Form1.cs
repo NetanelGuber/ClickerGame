@@ -22,7 +22,7 @@ namespace ClickerGame
         public static long MultiplyPowerPrice = 5000;
         public static long ClickPower = 1;
         public static long cps = 0;
-        long Rebirths = 0;
+        public static long Rebirths = 0;
 
         int sec = 0;
         int min = 0;
